@@ -1068,7 +1068,7 @@ Age,Gender,Heart rate,Systolic blood pressure,Diastolic blood pressure,Blood sug
 54,1,98,110,76,362,2.27,0.036,positive
 52,0,58,120,69,97,5.17,0.083,positive
 48,1,83,150,94,98,2.04,0.01,negative
-32,0,1111,141,95,82,2.66,0.008,negative
+32,0,111,141,95,82,2.66,0.008,negative
 51,1,102,130,83,110,8.66,0.006,positive
 75,1,103,120,83,105,1.08,0.017,positive
 32,1,105,128,80,180,5.75,0.007,negative
